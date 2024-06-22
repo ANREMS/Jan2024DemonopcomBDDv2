@@ -79,12 +79,12 @@
     </dependency>
 
     <!-- Log4j2 is a framework for logging application messages. -->
-    <dependency>
-      <groupId>io.basc.framework</groupId>
-      <artifactId>log4j2</artifactId>
-      <version>1.8.3</version>
-      <scope>test</scope>
-    </dependency>
+<!--    <dependency>-->
+<!--      <groupId>io.basc.framework</groupId>-->
+<!--      <artifactId>log4j2</artifactId>-->
+<!--      <version>1.8.3</version>-->
+<!--      <scope>test</scope>-->
+<!--    </dependency>-->
 
     <!-- Cucumber Core is the essential library for running Cucumber tests. -->
     <dependency>
@@ -108,33 +108,33 @@
     </dependency>
 
     <!-- WebDriverManager is a library for automatically managing Selenium WebDriver binaries. -->
-    <dependency>
-      <groupId>ru.sbtqa</groupId>
-      <artifactId>webdrivermanager</artifactId>
-      <version>2.4.1</version>
-    </dependency>
+<!--    <dependency>-->
+<!--      <groupId>ru.sbtqa</groupId>-->
+<!--      <artifactId>webdrivermanager</artifactId>-->
+<!--      <version>2.4.1</version>-->
+<!--    </dependency>-->
 
     <!-- Log4j API provides the logging API for Log4j. -->
-    <dependency>
-      <groupId>org.apache.logging.log4j</groupId>
-      <artifactId>log4j-api</artifactId>
-      <version>2.23.1</version>
-    </dependency>
+<!--    <dependency>-->
+<!--      <groupId>org.apache.logging.log4j</groupId>-->
+<!--      <artifactId>log4j-api</artifactId>-->
+<!--      <version>2.23.1</version>-->
+<!--    </dependency>-->
 
     <!-- Log4j Core provides the core implementation of Log4j. -->
-    <dependency>
-      <groupId>org.apache.logging.log4j</groupId>
-      <artifactId>log4j-core</artifactId>
-      <version>2.20.0</version>
-    </dependency>
+<!--    <dependency>-->
+<!--      <groupId>org.apache.logging.log4j</groupId>-->
+<!--      <artifactId>log4j-core</artifactId>-->
+<!--      <version>2.20.0</version>-->
+<!--    </dependency>-->
 
     <!-- Log4j SLF4J Implementation provides SLF4J bindings for Log4j. -->
-    <dependency>
-      <groupId>org.apache.logging.log4j</groupId>
-      <artifactId>log4j-slf4j-impl</artifactId>
-      <version>2.23.1</version>
-      <scope>test</scope>
-    </dependency>
+<!--    <dependency>-->
+<!--      <groupId>org.apache.logging.log4j</groupId>-->
+<!--      <artifactId>log4j-slf4j-impl</artifactId>-->
+<!--      <version>2.23.1</version>-->
+<!--      <scope>test</scope>-->
+<!--    </dependency>-->
     <!-- https://mvnrepository.com/artifact/tech.grasshopper/extentreports-cucumber7-adapter -->
     <dependency>
       <groupId>tech.grasshopper</groupId>
